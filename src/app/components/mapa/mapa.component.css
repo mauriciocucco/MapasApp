@@ -1,0 +1,12 @@
+p {
+  margin-top: 3px;
+}
+.mat-card {
+  margin: 10px;
+}
+.mat-raised-button {
+  margin-right: 5px;
+}
+agm-map {
+  height: 600px;
+}
